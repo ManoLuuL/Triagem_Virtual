@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InicioTriagem", "InicioTriagem.csproj", "{23FE7B45-C5BC-4A0E-B7A0-77A5255E6DE6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalador Triagem Virtual", "Instalador\Instalador Triagem Virtual\Instalador Triagem Virtual.vdproj", "{8FEDEC21-05F5-49D7-9D6A-3BAC38587ACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23FE7B45-C5BC-4A0E-B7A0-77A5255E6DE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23FE7B45-C5BC-4A0E-B7A0-77A5255E6DE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23FE7B45-C5BC-4A0E-B7A0-77A5255E6DE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23FE7B45-C5BC-4A0E-B7A0-77A5255E6DE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FEDEC21-05F5-49D7-9D6A-3BAC38587ACB}.Debug|Any CPU.ActiveCfg = Debug
+		{8FEDEC21-05F5-49D7-9D6A-3BAC38587ACB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77217187-0B09-4CA8-B8AB-000A30CFECB3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+MANUAL DE INSTALAÇÃO
+
+1.Para instlar é bem simples basta executar o aplicativo Instalador Triagem Virtual;
+2.Seguindo os passos do instalador na hora que finalizar o programa não será executado na hora;
+3.Se tudo ocorreu da forma correta, em sua área de trabalho irá aparecer o ícone do programa Triagem Virtual;
+4.Logo após você deverá clicar nesse ícone;
+5.Ele abrira o programa e estará pronto para utilização.

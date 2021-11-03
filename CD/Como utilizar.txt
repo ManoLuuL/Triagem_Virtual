@@ -1,0 +1,29 @@
+Como usar:
+
+1.	Ao instalar o programa, verifique se tudo ocorreu conforme especificados no manual de instalação;
+2.	Se tudo ocorreu da forma correta, em sua área de trabalho irá aparecer o ícone do programa Triagem Virtual;
+3.	Logo após você deverá clicar nesse ícone;
+4.	Ele abrira o programa e estará pronto para utilização;
+5.	Abrira na sua tela o início do nosso programa, tendo como opções de escolhas três botões:
+•	Iniciar: iniciará o programa;
+•	Créditos: Terá lá, fontes de pesquisas e desenvolvimento do projeto e também os envolvidos que criaram ele;
+•	Como usar: Será um passo a passo de como utilizar o programa.
+
+6.	Ao clicar no botão iniciar mostrará na tela uma mensagem de prevenção, basta clicar ok para seguir;
+7.	Em seguida abrira um questionário com perguntas pessoais e em relação a situação que o paciente se apresenta;
+8.	No final do questionário temos uma caixa de texto para mais informações e 5 botões para colocar em relação a situação do paciente;
+9.	Nos cantos inferiores desse questionário temos três botões:
+•	Voltar: Votará para página anterior;
+•	Limpar: Esse botão limpará o questionário e gerará um novo;
+•	Salvar: O botão “Salvar” ele irá salvar todas informações que foram registradas e gerara um pdf.
+
+10.	Ao clicar em salvar aparecera outro aviso, basta clicar ok para prosseguir;
+11.	Assim abrira o pdf com todos os dados descritos e com uma “bolinha” com cores diferentes dependendo da situação do paciente;
+12.	Com o pdf aberto você tem várias opções de escolha como armazenar em uma pasta, imprimir, fazer demarcações, entre outras coisas.
+
+Como fechar:
+
+1.	Durante todo o programa temos um “X” no canto superior direito;
+2.	Basta clicar no “X”;
+3.	Abrira uma mensagem perguntando se o usuário quer ou não fechar o programa;
+4.	Clique sim que o programa fechara. 

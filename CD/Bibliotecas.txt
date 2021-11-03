@@ -1,0 +1,9 @@
+Bibliotecas utilizadas:
+using System;
+using System.IO;
+using System.Threading;
+using System.Windows.Forms;
+using iTextSharp.text;
+using iTextSharp.text.pdf;
+Para utilizar a biblioteca iTextSharp é preciso fazer o download dela no visual studio;
+E para a criação do instalador wizard foi feito o download do Microsofrt visual studio installer projects. 

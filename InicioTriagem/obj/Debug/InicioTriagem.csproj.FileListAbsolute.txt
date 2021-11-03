@@ -1,0 +1,17 @@
+D:\Arquivos não apagar\Desktop\faculdade\3°semestre\Linguagem Programação 1\InicioTriagem\bin\Debug\InicioTriagem.exe.config
+D:\Arquivos não apagar\Desktop\faculdade\3°semestre\Linguagem Programação 1\InicioTriagem\bin\Debug\InicioTriagem.exe
+D:\Arquivos não apagar\Desktop\faculdade\3°semestre\Linguagem Programação 1\InicioTriagem\bin\Debug\InicioTriagem.pdb
+D:\Arquivos não apagar\Desktop\faculdade\3°semestre\Linguagem Programação 1\InicioTriagem\obj\Debug\InicioTriagem.Form1.resources
+D:\Arquivos não apagar\Desktop\faculdade\3°semestre\Linguagem Programação 1\InicioTriagem\obj\Debug\InicioTriagem.Properties.Resources.resources
+D:\Arquivos não apagar\Desktop\faculdade\3°semestre\Linguagem Programação 1\InicioTriagem\obj\Debug\InicioTriagem.csproj.GenerateResource.cache
+D:\Arquivos não apagar\Desktop\faculdade\3°semestre\Linguagem Programação 1\InicioTriagem\obj\Debug\InicioTriagem.csproj.CoreCompileInputs.cache
+D:\Arquivos não apagar\Desktop\faculdade\3°semestre\Linguagem Programação 1\InicioTriagem\obj\Debug\InicioTriagem.exe
+D:\Arquivos não apagar\Desktop\faculdade\3°semestre\Linguagem Programação 1\InicioTriagem\obj\Debug\InicioTriagem.pdb
+D:\Arquivos não apagar\Desktop\faculdade\3°semestre\Linguagem Programação 1\InicioTriagem\obj\Debug\InicioTriagem.Form2.resources
+D:\Arquivos não apagar\Desktop\faculdade\3°semestre\Linguagem Programação 1\InicioTriagem\obj\Debug\InicioTriagem.Form3.resources
+D:\Arquivos não apagar\Desktop\faculdade\3°semestre\Linguagem Programação 1\InicioTriagem\bin\Debug\BouncyCastle.Crypto.dll
+D:\Arquivos não apagar\Desktop\faculdade\3°semestre\Linguagem Programação 1\InicioTriagem\bin\Debug\itextsharp.dll
+D:\Arquivos não apagar\Desktop\faculdade\3°semestre\Linguagem Programação 1\InicioTriagem\bin\Debug\itextsharp.xml
+D:\Arquivos não apagar\Desktop\faculdade\3°semestre\Linguagem Programação 1\InicioTriagem\obj\Debug\InicioTriagem.csproj.CopyComplete
+D:\Arquivos não apagar\Desktop\faculdade\3°semestre\Linguagem Programação 1\InicioTriagem\obj\Debug\InicioTriagem.Form4.resources
+D:\Arquivos não apagar\Desktop\faculdade\3°semestre\Linguagem Programação 1\InicioTriagem\obj\Debug\InicioTriagem.csprojAssemblyReference.cache
